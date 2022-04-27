@@ -6,7 +6,7 @@ Desenvolvedor FullStack
 
 Apaixonado em tecnologia, estudo programação desde 2016, desde então já aprendi diversas linguagens como: VB.NET, ASP.NET, Python, Java, Web (HTML/CSS/JS), React.Js, Next.Js.
 
-* 🖥️  Veja meu Portfólio [Portfólio](http://beolchi.netlify.app)
+* 🖥️  Veja meu [Portfólio](http://beolchi.netlify.app)
 * ✉️  Contato: [andregarbini2001@gmail.com](mailto:andregarbini2001@gmail.com)
 * 🧠  Estudando React Native
 
