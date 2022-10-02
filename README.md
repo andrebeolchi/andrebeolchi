@@ -18,7 +18,7 @@ Estudando com foco em Desenvolvimento Mobile utilizando React Native e Typescrip
 <br/>  
 
 
-## Rapidfire  
+## 
 <table><tr><td valign="top" width="50%">
 
 - 🖥️ Veja meu [Portfólio](http://beolchi.netlify.app/)  
